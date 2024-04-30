@@ -1,0 +1,2514 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:33:58] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:34:06] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:34:09] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:37:10] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:37:10] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:37:14] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:37:15] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:37:15] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:37:21] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:37:23] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:37:23] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:37:25] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:37:39] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:39:26] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:39:26] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:42:33] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:43:26] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:43:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:43:36] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:43:36] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:44:02] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:44:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:44:42] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:44:42] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:44:47] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:56:52] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:59:26] "GET /fetch HTTP/1.1" 200 -
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:59:33] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:59:49] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:59:58] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:59:58] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 15:59:58] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 16:00:05] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 16:55:07] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 18:05:24] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 18:05:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 18:05:43] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 18:05:43] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 18:05:48] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:14:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:15:12] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:15:12] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error submitting data: 1130 (HY000): Host 'localhost' is not allowed to connect to this MariaDB server
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:15:15] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:15:40] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:15:41] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error submitting data: 1130 (HY000): Host 'localhost' is not allowed to connect to this MariaDB server
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:15:41] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:22:58] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:23:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:23:18] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:23:18] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:23:38] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:54:14] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:54:39] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:54:40] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:54:40] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 15:54:47] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:06:31] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:06:33] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:06:34] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:06:35] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error submitting data: 'pan no'
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:06:36] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:16:15] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:17:06] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:17:33] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:24:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:29:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:29:31] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error submitting data: 'pan no'
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:29:32] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:31:28] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:33:32] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:34:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 91 97
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 200 64674
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:36:45] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 11:59:32] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 12:00:04] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 12:00:04] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 12:00:04] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 12:00:38] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 16:58:44] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 16:59:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 16:59:29] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 16:59:29] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2024 16:59:52] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 11:44:02] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 11:44:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 11:44:23] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 11:44:23] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 11:44:45] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 13:25:50] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 13:26:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 13:26:18] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 13:26:18] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2024 13:26:21] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:16:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:17:11] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:20:16] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:27:16] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:31:13] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:35:14] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:37:22] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:39:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:40:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:48:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:50:35] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:51:05] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:51:35] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:52:52] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:54:51] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2024 22:55:02] "[33mGET /fetch HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:18:06] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:18:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:18:19] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:18:20] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:18:24] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:19:33] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:22:21] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:26:15] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:26:31] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:26:48] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:31:05] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:36:01] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:40:37] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:43:35] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:45:22] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:47:11] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:49:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:50:08] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:51:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:51:48] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:55:45] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:56:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 10:59:40] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:01:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:03:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:03:57] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:04:25] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:05:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:06:05] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:08:37] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:09:27] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:14:12] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:14:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:17:25] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:18:55] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:19:26] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:22:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:26:01] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:26:25] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:33:39] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:47:06] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:47:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:47:19] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:47:20] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:47:24] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:48:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:52:33] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:52:47] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:53:05] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:53:32] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:22] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:57] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:57] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:57] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:57] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:57:57] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:58:04] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:58:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 11:59:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 12:00:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 12:01:14] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 12:03:28] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 12:03:51] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 12:12:39] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 12:13:49] "POST /upload HTTP/1.1" 200 -
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:32:21] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:32:41] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:32:41] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error submitting data: name 'save_to_database' is not defined
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:32:41] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:40:49] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:41:04] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:41:04] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:41:05] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:44:51] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:45:08] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:45:08] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 15:45:09] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:04:23] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:04:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:04:38] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:04:38] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:15:36] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:18:31] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:19:20] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:20:13] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:20:39] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:20:40] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:20:40] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:23:07] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:23:07] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:23:07] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:00] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:07] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:08] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:11] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:13] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:14] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:15] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:17] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:17] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:18] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:19] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:19] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:19] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:19] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:19] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:19] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:19] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:19] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:20] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:20] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:22] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:24] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:24] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:25] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 35, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:32:25] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:33:20] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:33:21] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:33:21] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:33:24] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'DOB'
+ERROR:root:Error submitting data: 'DOB'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:33:24] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:36:27] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:36:31] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:36:32] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:36:35] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:38:03] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:38:03] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:38:03] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:38:03] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['user_aadhar_no'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'user_aadhar_no'
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['user_aadhar_no'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'user_aadhar_no'
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['user_aadhar_no'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'user_aadhar_no'
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['user_aadhar_no'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'user_aadhar_no'
+ERROR:root:Error submitting data: 'user_aadhar_no'
+ERROR:root:Error submitting data: 'user_aadhar_no'
+ERROR:root:Error submitting data: 'user_aadhar_no'
+ERROR:root:Error submitting data: 'user_aadhar_no'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:38:03] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:38:03] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:38:03] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:38:03] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:38:08] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['user_aadhar_no'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'user_aadhar_no'
+ERROR:root:Error submitting data: 'user_aadhar_no'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:38:08] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:16] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:17] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:17] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:17] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:17] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:17] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:17] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:17] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:17] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:20] "[31m[1mGET /submit HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:40:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:47:42] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:47:42] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:48:50] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:48:50] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:54:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:54:47] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:54:48] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:56:53] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 16:56:54] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:25:42] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:25:42] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:34:29] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:34:29] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:34:40] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:34:40] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:34:41] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:34:49] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:34:51] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:34:51] "GET /fetch HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:02] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:02] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:02] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:02] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:02] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:02] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:03] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:03] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:04] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:04] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:05] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:05] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:09] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:12] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:12] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:22] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:35:22] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:06] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:06] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:11] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:11] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:13] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:14] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:25] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:25] "GET /fetch HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:45] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:47] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:47] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:48] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:49] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:50] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:54] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:37:55] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:38:06] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:38:30] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:38:32] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:38:33] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:38:37] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:38:38] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:42:43] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:42:48] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:42:48] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:42:52] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:42:53] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:45:20] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:45:23] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:45:23] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:45:27] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:45:28] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:45:37] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:45:37] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:45:39] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:45:39] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:11] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:14] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:14] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:16] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:17] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:27] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:31] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:31] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:32] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:32] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:33] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:33] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:34] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:34] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:34] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:34] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:35] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:35] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:41] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:42] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:42] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:50] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:52] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:48:52] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:51:58] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:52:02] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:52:02] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:52:06] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:52:07] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:52:07] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:52:07] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:52:13] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:52:13] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:52:17] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:52:18] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:52:21] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:54:27] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:54:27] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:55:02] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:55:06] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:55:07] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:55:08] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:55:12] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:55:12] "GET /fetch HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:58:49] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:58:53] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:58:53] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 17:58:56] "GET /fetch HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:09:01] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:09:04] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:09:04] "POST /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:09:07] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:14:07] "GET /fetch HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:40:10] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:41:12] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:41:23] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:45:21] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:45:39] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:45:42] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:45:50] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:48:28] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:48:28] "OPTIONS /submit HTTP/1.1" 200 -
+ERROR:root:Error saving data to database
+Traceback (most recent call last):
+  File "D:\netwin python\flask-server\ocr.py", line 34, in save_to_database
+    values = (data['Aadhar No'], data['Name'], data['DOB'], data['Gender'])
+KeyError: 'Aadhar No'
+ERROR:root:Error submitting data: 'Aadhar No'
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2024 18:48:29] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:07:41] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:07:52] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:08:11] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:09:24] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:13:25] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:13:39] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:13:44] "[33mGET /fetch HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:13:57] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:14:01] "[33mGET /fetch HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:14:09] "[33mGET /fetch HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:14:13] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:14:17] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:14:19] "[33mOPTIONS /submit HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:15:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:15:56] "OPTIONS /submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:15:57] "POST /submit HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:17:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 08:17:16] "GET /fetch HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 10:21:46] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 10:21:54] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 10:40:18] "[31m[1mGET / HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 10:40:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 10:40:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 10:42:31] "POST /pan/extract_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 10:42:50] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\crud_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\crud_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+ERROR:root:Error uploading file: name 'reader' is not defined
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:07:56] "[35m[1mPOST /pan/extract_data HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\crud_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:17:22] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:17:28] "[31m[1mGET /pan/get_all_data HTTP/1.1[0m" 405 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:17:50] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:17:50] "OPTIONS /pan/store_data HTTP/1.1" 200 -
+ERROR:root:Error submitting data: module 'crud_operations' has no attribute 'pan_save_to_database'
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:17:51] "[35m[1mPOST /pan/store_data HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\crud_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:21:28] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:21:28] "OPTIONS /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:21:29] "POST /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:21:56] "[31m[1mGET /pan/get_all_data HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 11:23:11] "GET /pan/get_all_data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:27:50] "[35m[1mPOST /aadhar/extract_data HTTP/1.1[0m" 500 -
+ERROR:root:Error uploading file: name 'get_aadhar_data' is not defined
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:28:09] "[35m[1mPOST /aadhar/extract_data HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:46:32] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:46:36] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+ERROR:root:Error submitting data: name 'save_to_database' is not defined
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:46:36] "[35m[1mPOST /aadhar/store_data HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:47:51] "[31m[1mGET /aadhar/store_data HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:48:41] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+ERROR:root:Error submitting data: name 'aadhar_save_to_database' is not defined
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:48:41] "[35m[1mPOST /aadhar/store_data HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:50:29] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:50:33] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+ERROR:root:Error submitting data: name 'aadhar_save_to_database' is not defined
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:50:33] "[35m[1mPOST /aadhar/store_data HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:50:40] "[31m[1mGET /aadhar/store_data HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\crud_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:52:47] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+ERROR:root:Error submitting data: name 'aadhar_save_to_database' is not defined
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:52:47] "[35m[1mPOST /aadhar/store_data HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\crud_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:53:19] "POST /pan/extract_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:53:31] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:53:31] "OPTIONS /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:53:32] "POST /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:53:37] "GET /pan/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:54:06] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:54:09] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+ERROR:root:Error submitting data: name 'aadhar_save_to_database' is not defined
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:54:10] "[35m[1mPOST /aadhar/store_data HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\crud_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:55:03] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+ERROR:root:Error submitting data: name 'aadhar_save_to_database' is not defined
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:55:03] "[35m[1mPOST /aadhar/store_data HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\crud_operations.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\pan_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:59:25] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:59:25] "POST /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 12:59:28] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:18:46] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:18:50] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:18:50] "POST /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:18:53] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:19:22] "POST /pan/extract_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:19:33] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:19:33] "OPTIONS /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:19:33] "POST /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:19:37] "GET /pan/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:22:45] "POST /pan/extract_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:23:00] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:23:00] "OPTIONS /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:23:01] "POST /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:23:05] "GET /pan/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:23:51] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:23:51] "OPTIONS /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:23:51] "POST /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:23:57] "GET /pan/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:28:13] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:28:17] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:28:18] "POST /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:28:20] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:28:51] "POST /pan/extract_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:29:03] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:29:04] "OPTIONS /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:29:04] "POST /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 13:29:10] "GET /pan/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 14:51:40] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 14:51:43] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 14:51:44] "POST /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 14:51:46] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 14:52:21] "POST /pan/extract_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 14:52:34] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 14:52:35] "OPTIONS /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 14:52:35] "POST /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 14:52:41] "GET /pan/get_all_data HTTP/1.1" 200 -
+ERROR:root:Error uploading file: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:54:39] "[35m[1mPOST /aadhar/extract_data HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:55:55] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:55:55] "POST /aadhar/store_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:56:26] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:56:54] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:57:03] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:57:03] "POST /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:57:46] "POST /aadhar/extract_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:58:22] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:58:34] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 15:59:41] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:06:31] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:08:02] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:11:20] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:11:20] "POST /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:11:27] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:12:38] "POST /aadhar/extract_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:14:09] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:14:33] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:14:33] "POST /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:14:36] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 91 33
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 136 65400
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:17:34] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:17:37] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:17:38] "POST /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:17:42] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:19:42] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:19:53] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:19:53] "POST /aadhar/store_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:20:34] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:20:42] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:20:43] "POST /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:20:45] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:24:08] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 16:24:36] "GET /pan/get_all_data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 18:53:51] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 18:54:11] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+INFO:werkzeug: * Detected change in 'D:\\netwin python\\flask-server\\aadhar_ocr.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:easyocr.easyocr:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 954-368-739
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 10:26:25] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 10:26:30] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 10:26:30] "POST /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 10:26:32] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 10:27:08] "POST /pan/extract_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 10:27:21] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 10:27:22] "OPTIONS /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 10:27:22] "POST /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 10:27:25] "GET /pan/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 11:53:59] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 11:54:32] "GET /pan/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 65445
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 14:42:47] "POST /aadhar/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 14:42:53] "OPTIONS /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 14:42:53] "POST /aadhar/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 14:43:00] "GET /aadhar/get_all_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 14:46:17] "POST /pan/extract_data HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sBIT' 41 3
+DEBUG:PIL.PngImagePlugin:b'sBIT' 41 3 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 56 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 93 8192
+DEBUG:PIL.Image:Error closing: Operation on closed image
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 14:47:02] "POST /pan/extract_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 14:47:02] "OPTIONS /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 14:47:02] "POST /pan/store_data HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 14:47:07] "GET /pan/get_all_data HTTP/1.1" 200 -
